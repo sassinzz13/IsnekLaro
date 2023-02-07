@@ -1,3 +1,3 @@
 # IsnekLaro
 a snake game in python for the sole purpose of learning python
-Game is in the 2nd folder
+To run the game press F5 or just run it depending on what hotkey your IDE has
